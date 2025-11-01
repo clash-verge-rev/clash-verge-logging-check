@@ -1,5 +1,5 @@
 [package]
-name = "clash-verge-rev-check-logging"
+name = "clash-verge-logging-check"
 version = "0.1.0"
 edition = "2024"
 authors = ["Tunglies"]
